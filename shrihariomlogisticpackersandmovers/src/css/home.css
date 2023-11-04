@@ -1,0 +1,79 @@
+.container{
+    margin-top: 20px;
+}
+
+.text{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    margin-left: 18px;
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+}
+
+.text2{
+    font-size:medium;
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: 18px;
+
+}
+
+.img-fluid{
+    height: 500px;
+    width: 500px;
+
+}
+
+@media(min-width: 320px){
+    .text{
+        margin-top: 10px;
+        font-size: medium;
+        text-align: center;
+        margin-left: 3px;
+    }
+
+    .text2{
+        margin-left: 5px;
+    }
+}
+
+@media(min-width: 1024px){
+
+    .container{
+        margin-top: 20px;
+    }
+    
+    .text{
+        text-decoration: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: xx-large;
+        margin-left: 18px;
+        background-color: darkgoldenrod;
+        border-radius: 5px;
+    }
+    
+    .text2{
+        font-size:medium;
+        font-family: sans-serif;
+        text-align: justify;
+        margin-left: 18px;
+    
+    }
+    
+    .img-fluid{
+        height: 250px;
+    
+    }
+    
+
+}
+
+.card{
+    margin-top: 10px;
+}
+.text3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 50px;
+}

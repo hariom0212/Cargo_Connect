@@ -1,0 +1,63 @@
+.navbar{
+    margin-top: 20px;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+}
+
+.navbar li a{
+    text-decoration: none;
+    padding: 20px 30px;
+    color:black;
+    font-family:serif;
+}
+
+@media(min-width: 320px){
+    .navbar{
+        margin-top: 20px;
+    
+    }
+    
+    .navbar li {
+        float: left;
+        list-style: none;
+    }
+    
+    .navbar li a{
+        padding: 7px;
+        font-size: 12px;
+        color:black;
+    }
+
+
+
+}
+
+@media(min-width: 1024px){
+
+    .navbar{
+        margin-top: 20px;
+        justify-content: center;
+    }
+    
+    .navbar li {
+        float: left;
+        list-style: none;
+       
+    }
+    
+    .navbar li a{
+        padding: 20px 30px;
+        font-size: large;
+        color:black;
+    }
+    
+}
+
+.navbar li a:hover{
+    background: darkgoldenrod;
+    color:white;
+    border-radius: 20px;
+}

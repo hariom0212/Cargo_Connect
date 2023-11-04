@@ -1,0 +1,87 @@
+@media(min-width: 1240px){
+    #phonebt{
+        display: flex;
+        justify-content: left;
+        padding-right: 30px;
+        
+    }
+    
+    #dis{
+        height: 20px;
+    }
+    
+    #icons{
+        display:flex;
+        justify-content: end;   
+        padding-right: 30px;
+    }
+    #one{
+        padding-left: 10px;
+    }
+    #two{
+        padding-left: 10px;
+    }
+    
+    #three{
+        padding-left: 10px;
+    }
+    
+    #four{
+        padding-left: 10px;
+    }
+}
+
+@media(min-width: 1440px){
+    #phonebt{
+        display: flex;
+        justify-content: left;
+        padding-right: 30px;
+        
+    }
+    
+    #dis{
+        height: 20px;
+    }
+    
+    #icons{
+        display:flex;
+        justify-content: end;   
+        padding-right: 30px;
+    }
+    #one{
+        padding-left: 10px;
+    }
+    #two{
+        padding-left: 10px;
+    }
+    
+    #three{
+        padding-left: 10px;
+    }
+    
+    #four{
+        padding-left: 10px;
+    }
+}
+
+@media(min-width: 320px){
+    #icons{
+        padding-right: 15px;
+    }
+
+    #one{
+        padding-left: 5px;
+    }
+    #two{
+        padding-left: 5px;
+    }
+    
+    #three{
+        padding-left: 5px;
+    }
+    
+    #four{
+        padding-left: 5px;
+    }
+
+}

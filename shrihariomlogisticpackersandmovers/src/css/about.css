@@ -1,0 +1,35 @@
+.text4{
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.para{
+    font-size: medium;
+    text-align: justify;
+}
+
+.head{
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.para1{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: solid;
+}
+
+.para2{
+    font-size: medium;
+}
+
+#about1{
+    width: 100%;
+    padding-top: 30px;
+    height: 85%;
+}
+
+#gallery{
+    text-align: center;
+    color:darkgoldenrod
+}
